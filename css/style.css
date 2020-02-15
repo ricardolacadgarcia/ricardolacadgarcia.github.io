@@ -8,7 +8,7 @@ html,body
 	scroll-behavior: smooth;
 	font-family: 'Hind', sans-serif;
 	background-color: #f2f2f2;
-        color: pink;
+        color: rgb(40,40,40);
 }
 header
 {
